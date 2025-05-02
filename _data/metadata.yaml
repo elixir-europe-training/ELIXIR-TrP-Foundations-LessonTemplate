@@ -1,21 +1,24 @@
 "@context": https://schema.org/
 "@type": LearningResource
-"@id": https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplate-MkDocs/
+"@id": https://elixir-europe-training.github.io/ELIXIR-TrP-Foundations-LessonTemplate/
 http://purl.org/dc/terms/conformsTo:
   "@type": CreativeWork
   "@id": https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE
-description: Template for ELIXIR lessons
+description: ELIXIR mini-tutorials for foundational knowledge to use the ELIXIR lesson template
 keywords: FAIR, OPEN, Bioinformatics, Teaching
-name: ELIXIR Training Lesson template
+name: Foundations for the ELIXIR Training Lesson template
 # lookup at https://spdx.org/licenses/
 license: CC-BY-4.0
 author:
 - "@type": Person
-  name: Geert van Geest
-  email: geert.vangeest@sib.swiss
-  github: GeertvanGeest
-  orcid: 0000-0002-1561-078X
+  name: Luciana Peixoto
+  github: LucianaPeixoto23
+  orcid: 0000-0002-3972-3447
 - "@type": Person
-  name: Elin Kronander
-  github: elinkronander
-  orcid: 0000-0003-0280-6318
+  name: Miguel Cisneiros
+  github: mcisneiros
+  orcid: 0000-0002-6681-8564
+- "@type": Person
+name: Alexander Botzki
+github: abotzki
+orcid: https://orcid.org/0000-0001-6691-4233
