@@ -10,8 +10,12 @@
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    Add a short description of the training materail should be inserted here. 
-    
+    These mini-tutorial provide an introduction to essential tools and techniques for using the ELIXIR Lesson template. 
+    Participants will learn to utilize Markdown for creating well-structured and formatted documents, enhancing their ability to produce accessible and collaborative lesson content. 
+    The course also covers the fundamentals of Git and GitHub, enabling learners to effectively manage version control, collaborate on projects, and maintain a structured workflow. 
+    Additionally, the course illustrates the creation of high-quality scientific visualizations using a variety of tools, including traditional programming libraries, diagram creation software, and AI-powered solutions. 
+    By the end of the course, participants will be equipped with the skills to start using the ELIXIR lesson template.
+
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
@@ -52,7 +56,7 @@
 
 Please cite as:
 
-  1. Luciana , , Alexander Botzki (2025) Technical foundations for the use of the ELIXIR Training Lesson Template (v1.0.0-beta). Zenodo. to-be-created
+  1. Luciana Peixoto, Miguel Cisneiros, Alexander Botzki (2025) Technical foundational skills for the use of the ELIXIR Training Lesson Template (v1.0.0-beta). Zenodo. to-be-created
   2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. 
 
 
