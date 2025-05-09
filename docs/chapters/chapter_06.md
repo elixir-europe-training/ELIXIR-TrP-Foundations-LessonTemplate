@@ -1,6 +1,6 @@
 # What are the major bits and pieces OR How to mark up your content with Bioschemas?
 
-[add-bioschemas file='docs/training-material.yaml']
+[add-bioschemas file='docs/training-material.yml']
 
 ![avatar by juicy_fish & kjpargeter at freepik.com](../assets/images/avatar_perspectives.png){align=right}
 
