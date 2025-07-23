@@ -2,9 +2,9 @@
 
 ### Introduction to Lightweight Markup Language
 
-Markdown is a lightweight markup language that allows you to write content in a simple and easy-to-read plain-text format, which can be converted to various formats like HTML or PDF. Its simplicity and readability make it ideal for documentation, technical writing, and lesson creation.
+Markdown is a lightweight markup language that allows you to write content in a simple and easy-to-read plain-text format, which can be converted to various formats like HTML or PDF (Figure 1). Its simplicity and readability make it ideal for documentation, technical writing, and lesson creation.
 
-![basics of markdown](./docs/assets/images/Basics_of_markdown.png)
+![basics of markdown](./../assets/images/Basics_of_markdown.png "Figure 1")
 
 ### Why Markdown is Essential for ELIXIR Lessons
 
