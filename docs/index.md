@@ -2,10 +2,6 @@
 
 [add-bioschemas file='_data/metadata.yaml']
 
-## Authors
-
-[cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
-
 ## Lesson overview
 
 !!! overview ""
@@ -50,6 +46,13 @@
     [comment]: # (Property in Biochema: licence)
     [comment]: # (This is an example for CONVERGE)
 
+## Authors
+
+[cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
+
+### Contributors
+
+[cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
 
 ---
 ## Citing this lesson
