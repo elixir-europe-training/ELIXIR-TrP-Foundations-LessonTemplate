@@ -2,6 +2,8 @@
 
 The ELIXIR Lesson Template is a standardized framework designed to help educators create high-quality, consistent training materials for life sciences. It uses MkDocs, a static site generator, to produce user-friendly, web-based lessons.
 
+![Introduction](./../assets/images/Introduction.png "Figure 1"){: style="width:200px;"}
+
 Pros:
 
 * Consistency: Ensures all lessons have a uniform structure, making them easier to follow and maintain.

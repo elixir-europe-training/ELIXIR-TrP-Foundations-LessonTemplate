@@ -2,9 +2,9 @@
 
 ### Introduction to Lightweight Markup Language
 
-Markdown is a lightweight markup language that allows you to write content in a simple and easy-to-read plain-text format, which can be converted to various formats like HTML or PDF (Figure 1). Its simplicity and readability make it ideal for documentation, technical writing, and lesson creation.
+![basics of markdown](./../assets/images/Basics_of_markdown.png "Figure 1"){ width=40%; align=right }
 
-![basics of markdown](./../assets/images/Basics_of_markdown.png "Figure 1"){: style="transform: scale(0.5);"}
+Markdown is a lightweight markup language that allows you to write content in a simple and easy-to-read plain-text format, which can be converted to various formats like HTML or PDF (Figure 1). Its simplicity and readability make it ideal for documentation, technical writing, and lesson creation. 
 
 ### Why Markdown is Essential for ELIXIR Lessons
 
@@ -48,9 +48,9 @@ Use `#` symbols to define headers:
 - Code Blocks:
 
     ```markdown
-    ```
+    
     Code block content
-    ```
+    
     ```
 
 ### Links and Images
@@ -75,19 +75,36 @@ If you change the file name, you'll have to update all of your links.
 
 
 #### Adding Images:
+
 ```markdown
 ![Alt Text](https://example.com/image.png)
 ```
-Supported attributes include:
-
-* `click`: if true, the image will be clickable -> the image will be loaded in another tab
-* `url`: f you want the image to link to anther page
-* `alt`: describes the image and is used for people that are visually impaired
-* `caption`: Text that will appear under the image
-* `inline`: if true this image can be used in a list
-* `max-width`: Max width in px or em
-
 Make sure to credit images under CC-BY or other appropriate licenses.
+
+Examples: 
+
+```md
+![basics of markdown](./../assets/images/Basics_of_markdown.png "Figure 1"){: style="width:200px;"}
+```
+
+Result:
+
+![basics of markdown](./../assets/images/Basics_of_markdown.png "Figure 1"){: style="width:200px;"}
+
+Using the extension [Markdown in HTML](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#markdown-in-html) with literal `figure` and `figurecation` tags results into centered images with captions!
+
+```md
+<figure markdown="span">
+  ![Image title](./../assets/images/Basics_of_markdown.png){: style="width:200px;" }
+  <figcaption>Image caption</figcaption>
+</figure>
+```
+
+<figure markdown="span">
+  ![Image title](./../assets/images/Basics_of_markdown.png){: style="width:200px;" }
+  <figcaption>Image caption</figcaption>
+</figure>
+
 
 ### Tables
 #### Creating Tables:
@@ -108,6 +125,7 @@ Make sure to credit images under CC-BY or other appropriate licenses.
 
 ## 2.3 Tools for Markdown Editing
 
+![Tools for Markdown](./../assets/images/Tools_for__markdown.png "Figure 1"){: style="width:200px;"}
 
 ### Markdown Editors
 There are various tools available for writing and editing Markdown:

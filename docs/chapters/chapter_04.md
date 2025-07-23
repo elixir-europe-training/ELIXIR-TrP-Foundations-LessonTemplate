@@ -1,6 +1,6 @@
 ## HTML tips and tricks related to the Lesson template
 
-Let's explore the provided files and annotate them step by step. Open the index.html with Edit mode on Github. It has a quite simple structure: 
+Let's explore the provided files and annotate them step by step. Open the [index.html](https://github.com/elixir-europe-training/ELIXIR-TrP-Bioschemas-HTML-Template/blob/main/index.html) in the raw mode on Github. It has a quite simple structure: 
 
 ```
 <!DOCTYPE html>

@@ -6,6 +6,7 @@ Scientific visualisations are essential for making complex data and concepts mor
 
 A scientific visualisation is the process of representing scientific data graphically to enhance understanding, interpretation, and communication. It transforms complex datasets into visual formats, such as **graphs**, **charts**, **maps**, and **3D models**, making patterns, trends, and relationships more accessible.
 
+![Adding images](./../assets/images/Adding_images.png "Figure 1"){: style="width:200px;"}
 
 ### 5.1.1. Importance of visuals in making scientific concepts accessible.
 
@@ -120,7 +121,7 @@ Use the Pen Tool, Shapes, and Layers to create and modify diagrams.
 
 Export the file in PNG, PDF, or SVG format.
 
-For more: (https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter02.md#3)
+For more, check [this initiation](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter02.md#3).
 
 **Graphviz**
 
@@ -165,13 +166,13 @@ Example Workflow:
 
 **Other AI tools**
 
-DeepDream Generator (Google): AI-powered visual enhancements and artistic rendering.
-Tableau GPT: AI-enhanced data visualisation for interpreting large datasets.
-DALL·E: AI-generated scientific illustrations from text descriptions.
-mermaid: (https://mermaid.js.org/intro/getting-started.html)
+- DeepDream Generator (Google): AI-powered visual enhancements and artistic rendering.
+- Tableau GPT: AI-enhanced data visualisation for interpreting large datasets.
+- DALL·E: AI-generated scientific illustrations from text descriptions.
+- mermaid: (https://mermaid.js.org/intro/getting-started.html)
 
 
 ## 5.5. Embedding Visuals
 
-Best practices for saving and exporting visuals (SVG, PNG, or PDF formats).
-Integrating visuals into Markdown and HTML.
+- Best practices for saving and exporting visuals (SVG, PNG, or PDF formats).
+- Integrating visuals into Markdown and HTML.
