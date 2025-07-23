@@ -4,6 +4,8 @@
 
 Markdown is a lightweight markup language that allows you to write content in a simple and easy-to-read plain-text format, which can be converted to various formats like HTML or PDF. Its simplicity and readability make it ideal for documentation, technical writing, and lesson creation.
 
+![basics of markdown](./docs/assets/images/Basics_of_markdown.png)
+
 ### Why Markdown is Essential for ELIXIR Lessons
 
 Markdown's versatility and ease of use are key for creating accessible and collaborative lesson content in ELIXIR. It enables researchers and educators to focus on content while ensuring compatibility with a variety of tools and platforms. By using Markdown, lessons can be version-controlled and easily shared within the community.
