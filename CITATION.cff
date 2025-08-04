@@ -1,3 +1,15 @@
+cff-version: 1.1.0
+date-released: 2025-08-04
+license:
+- cc-by-4.0
+message: If you use this work, please cite it using the metadata from this file.
+title: Foundational skills for use of ELIXIR lesson template
+version: 2025-08-04
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Joe
+  given-names: Johnson
+version: 2025-08-04C
 authors:
 - affiliation: VIB
   family-names: Pereira da Cruz Gomes Lourenço
@@ -15,10 +27,3 @@ authors:
   family-names: Botzki
   given-names: Alexander
   orcid: 0000-0001-6691-4233
-cff-version: 1.2.0
-date-released: '2025-08-04'
-license:
-- cc-by-4.0
-message: If you use this work, please cite it using the metadata from this file.
-title: Foundational skills for use of ELIXIR lesson template
-version: 2025-08-04
