@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Foundational skills for use of ELIXIR lesson template"
+version: 2025-08-04
+date-released: 2025-08-04
+license: "CC-BY-4.0"
+abstract: "These mini-tutorials complement the existing instructions for the ELIXIR lesson template."
+message: "If you use this software, please cite it as below."
+authors:
+- affiliation: VIB
+  family-names: Pereira da Cruz Gomes Lourenço
+  given-names: Matheus 
+  orcid: 0000-0001-5478-4857
+- affiliation: biodata.pt
+  family-names: Cisneiros e Faria Lourenço
+  given-names: Miguel 
+  orcid: 0000-0002-6681-8564
+- affiliation: biodata.pt
+  family-names: Peixoto
+  given-names: Luciana
+  orcid: 0000-0002-3972-3447
+- affiliation: VIB
+  family-names: Botzki
+  given-names: Alexander
+  orcid: 0000-0001-6691-4233
