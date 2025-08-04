@@ -17,7 +17,6 @@ authors:
   orcid: 0000-0001-6691-4233
 cff-version: 1.2.0
 date-released: '2025-08-04'
-doi: 10.5281/zenodo.xxxx
 identifiers:
 - type: swh
   value: 
@@ -25,4 +24,4 @@ license:
 - cc-by-4.0
 message: If you use this work, please cite it using the metadata from this file.
 title: Foundational skills for use of ELIXIR lesson template
-version: 2025-08
+version: 2025-08-04
