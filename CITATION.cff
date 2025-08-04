@@ -1,22 +1,28 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
 authors:
-- family-names: "van Geest"
-  given-names: "Geert"
-  orcid: "https://orcid.org/0000-0002-1561-078X"
-- family-names: "Kronander"
-  given-names: "Elin"
-- family-names: "Herrera"
-  given-names: "Jose Alejandro Romero"
-  orcid: "https://orcid.org/0000-0002-4765-2087"
-- family-names: "Žlender"
-  given-names: "Nadja"
-- family-names: "Cardona"
-  given-names: "Alexia"
-  orcid: "https://orcid.org/0000-0002-7877-5565"
-  
-title: "The ELIXIR Training Lesson Template - Developing Training Together"
-version: v1.0.0-alpha
-doi: 10.5281/zenodo.7913092
-date-released: 2023-05-09
-url: "https://doi.org/10.5281/zenodo.7913092"
+- affiliation: VIB
+  family-names: Pereira da Cruz Gomes Lourenço
+  given-names: Matheus 
+  orcid: 0000-0001-5478-4857
+- affiliation: biodata.pt
+  family-names: Cisneiros e Faria Lourenço
+  given-names: Miguel 
+  orcid: 0000-0002-6681-8564
+- affiliation: biodata.pt
+  family-names: Peixoto
+  given-names: Luciana
+  orcid: 0000-0002-3972-3447
+- affiliation: VIB
+  family-names: Botzki
+  given-names: Alexander
+  orcid: 0000-0001-6691-4233
+cff-version: 1.2.0
+date-released: '2025-08-04'
+doi: 10.5281/zenodo.xxxx
+identifiers:
+- type: swh
+  value: 
+license:
+- cc-by-4.0
+message: If you use this work, please cite it using the metadata from this file.
+title: Foundational skills for use of ELIXIR lesson template
+version: 2025-08
