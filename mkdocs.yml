@@ -1,3 +1,12 @@
+# Built with zensical (https://zensical.org), not plain MkDocs.
+#
+# docs_dir points at a generated copy of docs/ because citations
+# ([@key] / \full_bibliography) are pre-rendered by
+# scripts/render_citations.py before zensical reads this tree - see
+# README.md for the build/serve workflow. Always edit sources under
+# docs/, never under docs_build/.
+docs_dir: docs_build
+
 site_name: Foundational skills for use of the ELIXIR Lesson Template
 nav:
     - About: index.md
@@ -29,19 +38,14 @@ repo_url: https://github.com/elixir-europe-training/ELIXIR-TrP-Foundations-Lesso
 edit_uri: edit/main/docs/
 
 plugins:
-  - tags:
-      tags_file: keywords.md
   - search
-  - bibtex:
-      bib_file: "references.bib"
-  - mkdocs-video # embed videos to the docs
 
   
 # Footer
 copyright: By the ELIXIR Training Platform
 
 markdown_extensions:
-  - abbr
+ - abbr
   - def_list
   - footnotes
   - tables
@@ -64,8 +68,7 @@ markdown_extensions:
           - overrides/.icons
   - neoteroi.cards
   - addbioschemas
-  - md_in_html
-
+  
 extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
