@@ -5,6 +5,7 @@
 # scripts/render_citations.py before zensical reads this tree - see
 # README.md for the build/serve workflow. Always edit sources under
 # docs/, never under docs_build/.
+
 docs_dir: docs_build
 
 site_name: Foundational skills for use of the ELIXIR Lesson Template
