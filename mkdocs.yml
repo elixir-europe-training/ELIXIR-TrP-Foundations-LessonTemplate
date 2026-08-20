@@ -45,7 +45,7 @@ plugins:
 copyright: By the ELIXIR Training Platform
 
 markdown_extensions:
- - abbr
+  - abbr
   - def_list
   - footnotes
   - tables
